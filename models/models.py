@@ -1,7 +1,7 @@
 from mongoengine import Document
 from mongoengine.fields import StringField, LongField, FloatField, ObjectIdField
 
-class LoanModel(Document):
+class Loan(Document):
     meta = {
       'collection': 'loans',
       'strict': False,
