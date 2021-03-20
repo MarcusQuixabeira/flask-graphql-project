@@ -9,7 +9,7 @@ graphql-relay==2.0.0
 graphql-server-core==1.1.1
 iso8601==0.1.12
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 mongoengine==0.18.2
 pkg-resources==0.0.0
